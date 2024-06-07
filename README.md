@@ -40,4 +40,4 @@ d) Um backup do seu repositório local
 
 Parte 2: Dissertativa
 Explique o conceito de branching e como isso é útil no desenvolvimento de software.
-É útil porque os branches permitem que você desenvolva recursos, corrija erros ou experimente com segurança novas ideias em uma área contida do seu repositório
+# É útil porque os branches permitem que você desenvolva recursos, corrija erros ou experimente com segurança novas ideias em uma área contida do seu repositório
